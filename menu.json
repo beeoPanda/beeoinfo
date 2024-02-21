@@ -1,0 +1,38 @@
+{
+  "menu": {
+    "page": [
+      {
+        "path": "page_1",
+        "title": "Page 1",
+        "section": [
+          {
+            "name": "Section 1.1",
+            "parcours": [
+              {"label": "Parcours 1.1.1"},
+              {"label": "Parcours 1.1.2"}
+            ]
+          },
+          {
+            "name": "Section 1.2"
+          }
+        ]
+      },
+      {
+        "path": "page_2",
+        "title": "Page 2",
+        "section": [
+          {
+            "name": "Section 2.1",
+            "parcours": [
+              {"label": "Parcours 2.1.1"},
+              {"label": "Parcours 2.1.2"}
+            ]
+          },
+          {
+            "name": "Section 2.2"
+          }
+        ]
+      }
+    ]
+  }
+}
