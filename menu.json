@@ -2,7 +2,7 @@
   "menu": {
     "page": [
       {
-        "path": "page_1",
+        "path": "/page_1.html",
         "title": "Page 1",
         "section": [
           {
@@ -18,7 +18,7 @@
         ]
       },
       {
-        "path": "page_2",
+        "path": "/page_2.html",
         "title": "Page 2",
         "section": [
           {
